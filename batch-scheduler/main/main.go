@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	s "github.com/abserari/gobox/scheduler"
+	s "github.com/abserari/gobox/batch-scheduler"
 	"runtime"
 	"time"
 )
